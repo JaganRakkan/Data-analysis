@@ -20,18 +20,6 @@ Best Performing Products: Identification of the top-selling products based on th
 Sales by City: Analysis of sales performance by city.
 Hourly Sales Analysis: Determination of the best time of day for sales.
 Product Affinity: Identification of products frequently sold together using association rules.
-Tools and Libraries
-The analysis is performed using the following tools and libraries:
-
-
-# To reproduce or further explore the sales analysis, follow these steps:
-
-Clone the repository to your local machine using the command: git clone https://github.com/your-username/sales-analysis.git
-Ensure you have Python installed (preferably Python 3.7 or higher).
-Install the required libraries by running pip install -r requirements.txt.
-Open the Jupyter Notebook sales_analysis.ipynb using Jupyter Notebook or any compatible IDE.
-Run the code cells in the notebook to perform the analysis step-by-step.
-Modify the notebook as desired to customize the analysis or add new insights.
 
 # Conclusion
 The sales analysis provides valuable insights into the sales performance for the 12-month period. It helps in identifying the top-selling products, analyzing sales trends, and understanding customer preferences. The results can be used to make informed business decisions, improve marketing strategies, and optimize sales operations.
